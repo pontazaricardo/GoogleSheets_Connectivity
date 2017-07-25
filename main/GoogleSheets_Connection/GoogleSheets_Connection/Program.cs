@@ -10,6 +10,10 @@ namespace GoogleSheets_Connection
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Connection application to Goole Sheets");
+
+            Console.WriteLine("======= LAST LINE =======");
+            Console.ReadLine();
 
         }
     }
